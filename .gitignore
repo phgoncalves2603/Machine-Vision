@@ -1,0 +1,5 @@
+myEvn/
+runs/
+input_image/
+yolov8x.pt
+.vscode/
