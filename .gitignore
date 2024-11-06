@@ -3,3 +3,6 @@ runs/
 input_image/
 yolov8x.pt
 .vscode/
+training/yolov5xu.pt
+training/football-players-detection-1
+.DS_Store

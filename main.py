@@ -2,10 +2,6 @@ from ultralytics import YOLO
 
 model = YOLO('yolov8x')
 
-results = model.predict("input_image/08fd33_4.mp4",save=True)
-print(results[0])
+results = model.predict("input_image/08fd33_4.mp4", save=True)
 
-print("=========================")
-for box in results[0].boxes:
-    print(box)
 
