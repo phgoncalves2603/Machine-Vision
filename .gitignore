@@ -1,7 +1,12 @@
 myEvn/
+models/
+output_videos/
+stubs/
 runs/
 input_image/
 yolov8x.pt
+yolo11n.pt
+yolov5xu.pt
 .vscode/
 training/yolov5xu.pt
 training/football-players-detection-1
